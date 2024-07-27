@@ -2,7 +2,7 @@
 
 set -o errexit
 
-BASE_DIR='/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Library/Developer/CoreSimulator/Profiles/Runtimes/iOS.simruntime/Contents/Resources'
+BASE_DIR='/Library/Developer/CoreSimulator/Volumes/iOS_21F79/Library/Developer/CoreSimulator/Profiles/Runtimes/iOS 17.5.simruntime/Contents/Resources'
 ROOT_DIR="${BASE_DIR}/RuntimeRoot"
 
 function warn() {
